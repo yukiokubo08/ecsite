@@ -1,0 +1,48 @@
+.member-tittle {
+  letter-spacing: 2px;
+  font-size: 26px;
+  font-weight: normal;
+  margin: 30px 0 30px;
+}
+
+.member-contents {
+  width: 1000px;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.member-contents hr {
+  width: 1000px;
+}
+
+.leftMenu {
+  float: left;
+  width: 150px;
+  background-color: #eee;
+  margin-right: 100px;
+}
+
+.rightMenu {
+  overflow: hidden;
+  background-color: #eee;
+  width: 750px;
+  margin: 0 auto;
+}
+
+.rightMenu p {
+  text-align: left;
+  margin: 0;
+}
+
+.rightMenu hr {
+  margin: 10px 0 20px;
+  width: 750px;
+}
+
+.rightMenu .member-info {
+  font-weight: bold;
+}
+
+.rightMenu .discription {
+  font-size: 12px;
+}
